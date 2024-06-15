@@ -1,0 +1,52 @@
+.kasa{
+    width: 1000px;
+    margin: 0 auto;
+    min-height: 600px;
+    
+}
+
+.banner{
+    height: 150px;
+    background-color: darkred;
+    margin-bottom: 10px;
+}
+
+.linkler{
+    float: left;
+    width: 230px;
+    min-height: 250px;
+    background-color: darkred;
+    padding: 10px;
+    margin-right: 10px;
+}
+.ortaAlan{
+    width: 760px;
+    float:left;
+    min-height: 350px;
+    padding: 10px;
+    background-color: gainsboro;
+    margin-bottom: 10px;
+}
+.footer{
+    min-height: 100px;
+    background-color: gainsboro;
+}
+
+.linkler .menu{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.linkler .menu a{
+    text-decoration: none;
+    font-size: 150%;
+    color:black;
+    text-transform: uppercase;
+    line-height: 250%;
+}
+
+.linkler .menu a:hover{
+    color:bisque;
+}

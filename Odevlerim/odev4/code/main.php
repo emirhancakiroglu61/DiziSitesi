@@ -1,0 +1,9 @@
+<h1>Malazgirt savaşı </h1>
+<p>Malazgirt Meydan Muharebesi, 26 Ağustos 1071 tarihinde Büyük Selçuklu İmparatorluğu hükümdarı Alp Arslan ile Bizans İmparatorluğu hükümdarı Romen Diyojen arasında Malazgirt Ovasında gerçekleşen muharebedir. Alp Arslan'ın kesin zaferi ile sonuçlanan bu muharebe, "Türklere Anadolu'nun kapılarını açan son muharebe" olarak bilinir ve savaşın ardından pek çok Türk Anadolu'ya yerleşmeye başlamıştır.[7]
+Malazgirt Muharebesinin kaybı, Bizanslılar için bir felaketti. Kayıp, iç çatışmalara ve İmparatorluğun sınır savunmasını ciddi şekilde zayıflatan bir ekonomik krize yol açtı.[8] Sınırların korunamaması Türklerin Orta Anadolu'ya doğru gerçekleşen kitlesel hareketine yol açtı – 1080 yılına gelindiğinde Selçuklu Türkleri 78.000 kilometrekarelik bir alanı ele geçirmişti. I. Aleksios'un Bizans'ta istikrarı yeniden sağlaması ise otuz yıl kadar sürmüştü. Tarihçi Thomas Asbridge'in belirttiğine göre: "Malazgirt Bizans için acı verici bir başarısızlık" idi.[9] Malazgirt, bir Bizans imparatorunun Müslüman bir komutana esir olduğu ilk olaydır.</p>
+
+<h1>savaş öncesi durum</h1>
+<p>1060'lı yıllarda Büyük Selçuklu Devleti hükümdarı Alp Arslan, Türk dostlarına bugünkü Ermenistan toprakları civarı ile Anadolu'ya doğru göç etmelerine izin verdi ve Türkler buralarda şehirlere ve tarım alanlarına yerleştiler. 1068 yılında Romen Diyojen, Türklere karşı bir sefer düzenledi, fakat Koçhisar şehrini geri almasına rağmen Türk atlılarına yetişemedi. 1070 yılında Türkler, Alparslan komutanlığında, günümüzde Muş'un bir ilçesi olan Malazgirt'te Manzikert (Bizans dilinde Malazgirt) ve Erciş kalelerini ele geçirdi. Daha sonra Türk ordusu Diyarbakır'ı aldı ve Bizans yönetimindeki Urfa'yı kuşattı; ancak alamadı. Türk beylerinden Afşin Bey, güçleri arasına katıp Halep'i aldı.
+
+</p>
+
